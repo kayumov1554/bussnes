@@ -21,6 +21,7 @@ nav .container{
 nav .container .left h1{
     color: white;
     padding: 0 30px;
+    color: red;
 }
 
 nav .container .right h1{
