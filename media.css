@@ -2,6 +2,10 @@
     nav .container{
         display: flex;
         width: 100%;
+        align-items: center;
+    }
+    nav .container .left h1{
+        font-size: 20px;
     }
     .section .container{
         display: flex;
